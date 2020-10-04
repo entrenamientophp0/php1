@@ -1,3 +1,4 @@
 <?php
-echo "clientes"
+echo "clientes";
+echo "empleados";
 ?>
